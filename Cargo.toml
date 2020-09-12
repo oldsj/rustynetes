@@ -1,0 +1,11 @@
+[package]
+name = "rustynetes"
+version = "0.1.0"
+authors = ["James Olds <opensource@oldsmail.com"]
+edition = "2018"
+readme = "README.md"
+description = """
+An attempt at a Kubernetes like container orchestrator written in Rust.
+"""
+
+[dependencies]
