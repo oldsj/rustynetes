@@ -9,3 +9,5 @@ An attempt at a Kubernetes like container orchestrator written in Rust.
 """
 
 [dependencies]
+rocket = "0.4"
+
